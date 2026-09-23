@@ -2,7 +2,9 @@
 
 > A unified digital campus platform for students of Shri Shankaracharya Technical Campus (SSTC), Bhilai.
 
-SSTC Connect brings campus communities, academic resources, senior guidance, and student-to-student services together in one place.
+SSTC Connect is a student-focused digital platform that brings campus communities, academic resources, senior guidance, and student-to-student services together in one place.
+
+Instead of relying on scattered WhatsApp groups, separate resource folders, and disconnected platforms, SSTC Connect provides a single digital space for students to learn, connect, collaborate, and support each other.
 
 ---
 
@@ -46,7 +48,14 @@ SSTC Connect brings campus communities, academic resources, senior guidance, and
 
 ## 🎯 The Problem
 
-Students often depend on multiple disconnected platforms for study materials, senior guidance, campus discussions, academic support, student communities, and buying and selling.
+Students often depend on multiple disconnected platforms for:
+
+- Study materials
+- Senior guidance
+- Campus discussions
+- Academic support
+- Student communities
+- Buying and selling
 
 As information becomes scattered across different groups and platforms, finding the right resource or person can become difficult.
 
@@ -116,7 +125,7 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sstc-connect.git
+git clone https://github.com/Ramanuj080/sstc-connect.git
 cd sstc-connect
 npm install
 npm run dev
@@ -199,7 +208,7 @@ SSTC Connect was developed as a hackathon project with the goal of solving a rea
 
 ### Team
 
-**Team Beyonders**
+**APEX**
 
 ---
 
@@ -227,6 +236,6 @@ This project is developed for educational and hackathon purposes.
 
 **One digital campus for learning, collaboration, and student support.**
 
-Built with ❤️ by Team Beyonders
+Built with ❤️ by Team APEX
 
 </div>
